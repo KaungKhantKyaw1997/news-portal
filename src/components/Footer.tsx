@@ -57,19 +57,19 @@ const Footer: React.FC = () => {
           </div>
           <div className="flex space-x-4 mt-4 sm:mt-0 items-start justify-end">
             <Image
-              src="/icons/instagram.svg"
+              src="/icons/ig.svg"
               alt="Instagram Logo"
               width={24}
               height={24}
             />
             <Image
-              src="/icons/twitter.svg"
+              src="/icons/tt.svg"
               alt="Twitter Logo"
               width={24}
               height={24}
             />
             <Image
-              src="/icons/facebook.svg"
+              src="/icons/fb.svg"
               alt="Facebook Logo"
               width={24}
               height={24}
